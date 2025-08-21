@@ -17,6 +17,7 @@ def main():
     loadToDB = load(trasnformeData, 'sales.db')
     salesCategory = salesPerCategory('sales.db')
     topSalesChannel = revenuesChannel('sales.db')
+    print(topSalesChannel)
 
 if __name__ == "__main__":
     main()
