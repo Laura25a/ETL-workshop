@@ -1,0 +1,201 @@
+sale_id,date,product_id,product_name,category,brand,unit_price,unit_cost,customer_id,customer_name,city,country,age,channel_id,channel,quantity,unit_price_sale
+1,2025-03-21,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,8,Customer 8,City 8,Canada,34,1,Physical Store 1,5,590.41
+2,2025-05-06,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,7,Customer 7,City 7,Canada,64,3,Online,5,1311.9
+3,2025-02-23,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,2,505.93
+4,2025-06-25,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,10,Customer 10,City 10,USA,52,1,Physical Store 1,5,526.89
+5,2025-06-07,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,8,Customer 8,City 8,Canada,34,2,Physical Store 2,5,1094.76
+6,2025-04-12,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,1,Customer 1,City 1,Canada,52,1,Physical Store 1,5,595.95
+7,2025-02-25,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,8,Customer 8,City 8,Canada,34,3,Online,3,455.23
+8,2025-04-04,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,7,Customer 7,City 7,Canada,64,3,Online,1,1201.65
+9,2025-05-06,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,10,Customer 10,City 10,USA,52,3,Online,1,1075.07
+10,2025-05-13,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,5,Customer 5,City 5,Canada,38,1,Physical Store 1,2,1307.33
+11,2025-01-15,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,3,Customer 3,City 3,Mexico,60,1,Physical Store 1,2,503.93
+12,2025-03-30,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,2,Physical Store 2,3,1052.68
+13,2025-05-18,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,5,Customer 5,City 5,Canada,38,1,Physical Store 1,3,450.37
+14,2025-04-12,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,10,Customer 10,City 10,USA,52,1,Physical Store 1,5,1285.17
+15,2025-01-06,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,5,Customer 5,City 5,Canada,38,1,Physical Store 1,5,511.38
+16,2025-01-13,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,2,Customer 2,City 2,Canada,36,3,Online,4,974.6
+17,2025-02-10,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,1,Physical Store 1,5,1327.34
+18,2025-01-14,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,9,Customer 9,City 9,USA,26,2,Physical Store 2,4,1110.02
+19,2025-01-02,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,10,Customer 10,City 10,USA,52,3,Online,2,1033.09
+20,2025-06-15,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,10,Customer 10,City 10,USA,52,1,Physical Store 1,2,1280.3
+21,2025-03-16,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,7,Customer 7,City 7,Canada,64,3,Online,4,976.52
+22,2025-04-02,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,9,Customer 9,City 9,USA,26,1,Physical Store 1,5,520.63
+23,2025-06-02,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,10,Customer 10,City 10,USA,52,3,Online,2,457.39
+24,2025-04-24,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,1,Customer 1,City 1,Canada,52,1,Physical Store 1,1,1344.13
+25,2025-01-02,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,10,Customer 10,City 10,USA,52,2,Physical Store 2,3,568.56
+26,2025-06-05,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,2,Customer 2,City 2,Canada,36,1,Physical Store 1,3,1387.54
+27,2025-04-02,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,8,Customer 8,City 8,Canada,34,3,Online,1,533.66
+28,2025-04-03,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,3,Online,3,1235.04
+29,2025-01-03,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,3,1257.85
+30,2025-04-01,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,7,Customer 7,City 7,Canada,64,3,Online,5,1145.14
+31,2025-01-24,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,4,Customer 4,City 4,Mexico,37,3,Online,2,1029.77
+32,2025-05-03,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,4,Customer 4,City 4,Mexico,37,3,Online,5,1114.59
+33,2025-03-03,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,5,1037.96
+34,2025-01-13,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,5,1214.49
+35,2025-04-21,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,8,Customer 8,City 8,Canada,34,3,Online,2,1011.83
+36,2025-02-08,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,3,Customer 3,City 3,Mexico,60,1,Physical Store 1,1,525.89
+37,2025-02-25,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,2,Customer 2,City 2,Canada,36,3,Online,1,1296.3
+38,2025-03-17,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,9,Customer 9,City 9,USA,26,3,Online,2,477.97
+39,2025-04-16,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,4,Customer 4,City 4,Mexico,37,3,Online,2,488.61
+40,2025-04-04,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,9,Customer 9,City 9,USA,26,3,Online,2,1279.31
+41,2025-06-27,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,1,Customer 1,City 1,Canada,52,3,Online,2,1107.15
+42,2025-03-28,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,1,960.58
+43,2025-06-21,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,5,Customer 5,City 5,Canada,38,3,Online,3,491.46
+44,2025-06-12,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,1,Physical Store 1,3,1443.16
+45,2025-01-22,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,3,Customer 3,City 3,Mexico,60,2,Physical Store 2,5,1365.68
+46,2025-03-21,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,9,Customer 9,City 9,USA,26,1,Physical Store 1,2,445.86
+47,2025-01-30,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,7,Customer 7,City 7,Canada,64,3,Online,4,1041.37
+48,2025-03-31,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,3,Online,2,1428.65
+49,2025-03-30,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,4,1326.27
+50,2025-03-05,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,9,Customer 9,City 9,USA,26,1,Physical Store 1,1,584.26
+51,2025-05-26,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,4,Customer 4,City 4,Mexico,37,1,Physical Store 1,2,562.24
+52,2025-05-08,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,3,1220.26
+53,2025-04-23,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,3,Online,2,1229.74
+54,2025-04-19,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,3,Online,1,1300.04
+55,2025-05-11,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,1,Customer 1,City 1,Canada,52,1,Physical Store 1,2,1245.93
+56,2025-05-16,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,2,Customer 2,City 2,Canada,36,1,Physical Store 1,4,1246.36
+57,2025-03-03,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,2,Physical Store 2,3,1091.61
+58,2025-06-05,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,3,Online,2,1384.47
+59,2025-03-13,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,3,Customer 3,City 3,Mexico,60,3,Online,4,1258.15
+60,2025-01-18,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,10,Customer 10,City 10,USA,52,2,Physical Store 2,5,441.81
+61,2025-06-09,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,2,1153.18
+62,2025-03-16,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,3,518.85
+63,2025-01-30,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,5,1167.94
+64,2025-05-30,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,5,1041.04
+65,2025-04-16,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,8,Customer 8,City 8,Canada,34,2,Physical Store 2,4,1059.64
+66,2025-06-19,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,7,Customer 7,City 7,Canada,64,3,Online,3,1066.49
+67,2025-06-06,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,7,Customer 7,City 7,Canada,64,2,Physical Store 2,1,1252.05
+68,2025-05-19,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,5,Customer 5,City 5,Canada,38,1,Physical Store 1,1,975.66
+69,2025-01-06,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,2,Physical Store 2,2,1185.72
+70,2025-06-21,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,10,Customer 10,City 10,USA,52,3,Online,3,448.8
+71,2025-01-01,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,4,1389.59
+72,2025-02-11,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,1,Customer 1,City 1,Canada,52,3,Online,3,437.41
+73,2025-03-08,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,6,Customer 6,City 6,Mexico,39,3,Online,3,1027.59
+74,2025-01-20,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,3,Online,5,432.54
+75,2025-02-08,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,1,Customer 1,City 1,Canada,52,1,Physical Store 1,1,599.13
+76,2025-03-16,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,7,Customer 7,City 7,Canada,64,1,Physical Store 1,3,1067.0
+77,2025-05-18,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,2,Customer 2,City 2,Canada,36,2,Physical Store 2,4,1290.95
+78,2025-06-01,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,4,989.52
+79,2025-04-28,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,1,Physical Store 1,4,1087.48
+80,2025-05-12,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,2,Customer 2,City 2,Canada,36,1,Physical Store 1,2,1015.72
+81,2025-06-23,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,1,Customer 1,City 1,Canada,52,1,Physical Store 1,3,1148.4
+82,2025-03-13,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,3,Customer 3,City 3,Mexico,60,3,Online,2,521.04
+83,2025-06-21,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,3,Customer 3,City 3,Mexico,60,2,Physical Store 2,4,593.53
+84,2025-04-15,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,3,Customer 3,City 3,Mexico,60,2,Physical Store 2,2,532.31
+85,2025-02-21,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,3,Online,4,1407.38
+86,2025-05-19,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,6,Customer 6,City 6,Mexico,39,3,Online,1,1202.77
+87,2025-03-15,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,10,Customer 10,City 10,USA,52,1,Physical Store 1,4,1032.1
+88,2025-03-24,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,1,Customer 1,City 1,Canada,52,2,Physical Store 2,4,1240.67
+89,2025-05-12,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,7,Customer 7,City 7,Canada,64,1,Physical Store 1,1,467.41
+90,2025-05-25,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,2,Physical Store 2,3,1238.69
+91,2025-03-23,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,4,Customer 4,City 4,Mexico,37,1,Physical Store 1,1,1110.39
+92,2025-03-08,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,1,Customer 1,City 1,Canada,52,3,Online,1,561.2
+93,2025-04-11,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,2,Customer 2,City 2,Canada,36,3,Online,4,1131.63
+94,2025-02-11,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,1,1301.99
+95,2025-04-07,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,5,1329.78
+96,2025-04-23,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,4,Customer 4,City 4,Mexico,37,3,Online,4,1121.87
+97,2025-04-30,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,10,Customer 10,City 10,USA,52,2,Physical Store 2,2,531.92
+98,2025-03-29,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,7,Customer 7,City 7,Canada,64,2,Physical Store 2,5,1048.88
+99,2025-03-07,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,7,Customer 7,City 7,Canada,64,2,Physical Store 2,5,587.04
+100,2025-02-19,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,1,Customer 1,City 1,Canada,52,1,Physical Store 1,4,1264.51
+101,2025-03-04,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,8,Customer 8,City 8,Canada,34,3,Online,2,966.46
+102,2025-06-09,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,2,Customer 2,City 2,Canada,36,3,Online,4,1044.47
+103,2025-01-29,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,1,Customer 1,City 1,Canada,52,2,Physical Store 2,3,548.18
+104,2025-04-14,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,3,Customer 3,City 3,Mexico,60,1,Physical Store 1,3,1071.14
+105,2025-04-02,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,2,Customer 2,City 2,Canada,36,3,Online,2,1016.57
+106,2025-01-03,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,3,Online,3,1095.65
+107,2025-04-18,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,1,Customer 1,City 1,Canada,52,1,Physical Store 1,1,1362.43
+108,2025-02-02,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,10,Customer 10,City 10,USA,52,1,Physical Store 1,1,973.29
+109,2025-03-30,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,4,Customer 4,City 4,Mexico,37,1,Physical Store 1,1,1293.93
+110,2025-01-01,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,2,528.68
+111,2025-06-09,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,8,Customer 8,City 8,Canada,34,3,Online,4,1017.31
+112,2025-05-29,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,10,Customer 10,City 10,USA,52,3,Online,1,1179.76
+113,2025-01-19,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,5,1285.74
+114,2025-04-08,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,5,Customer 5,City 5,Canada,38,2,Physical Store 2,1,1096.63
+115,2025-03-18,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,9,Customer 9,City 9,USA,26,2,Physical Store 2,2,1378.85
+116,2025-03-31,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,5,Customer 5,City 5,Canada,38,1,Physical Store 1,2,477.43
+117,2025-05-30,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,8,Customer 8,City 8,Canada,34,2,Physical Store 2,5,576.14
+118,2025-05-28,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,2,Customer 2,City 2,Canada,36,3,Online,3,1340.48
+119,2025-06-06,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,3,Customer 3,City 3,Mexico,60,2,Physical Store 2,3,1002.69
+120,2025-02-15,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,3,1148.72
+121,2025-01-13,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,2,1199.49
+122,2025-03-10,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,1,490.6
+123,2025-01-31,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,3,Online,1,481.71
+124,2025-02-01,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,5,Customer 5,City 5,Canada,38,1,Physical Store 1,5,425.89
+125,2025-03-05,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,1,Physical Store 1,3,1221.1
+126,2025-03-13,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,3,Online,5,1362.9
+127,2025-06-29,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,7,Customer 7,City 7,Canada,64,3,Online,3,1253.99
+128,2025-05-04,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,9,Customer 9,City 9,USA,26,1,Physical Store 1,4,1004.64
+129,2025-02-12,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,3,Customer 3,City 3,Mexico,60,3,Online,1,1180.67
+130,2025-06-14,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,1,Physical Store 1,1,1419.53
+131,2025-02-22,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,8,Customer 8,City 8,Canada,34,3,Online,2,1015.05
+132,2025-05-13,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,8,Customer 8,City 8,Canada,34,2,Physical Store 2,3,1328.8
+133,2025-03-10,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,1,Customer 1,City 1,Canada,52,3,Online,2,448.86
+134,2025-03-14,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,3,Online,1,1139.9
+135,2025-03-11,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,8,Customer 8,City 8,Canada,34,3,Online,5,432.76
+136,2025-01-13,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,3,Online,3,509.32
+137,2025-06-17,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,7,Customer 7,City 7,Canada,64,1,Physical Store 1,5,1214.17
+138,2025-03-08,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,9,Customer 9,City 9,USA,26,2,Physical Store 2,4,1310.38
+139,2025-06-22,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,5,Customer 5,City 5,Canada,38,1,Physical Store 1,3,1006.91
+140,2025-01-01,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,5,Customer 5,City 5,Canada,38,1,Physical Store 1,3,1078.85
+141,2025-05-08,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,1,Customer 1,City 1,Canada,52,2,Physical Store 2,4,1250.05
+142,2025-05-10,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,10,Customer 10,City 10,USA,52,1,Physical Store 1,2,1132.07
+143,2025-03-14,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,1,1086.26
+144,2025-05-04,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,2,Customer 2,City 2,Canada,36,1,Physical Store 1,5,588.38
+145,2025-01-10,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,5,Customer 5,City 5,Canada,38,1,Physical Store 1,3,588.47
+146,2025-02-11,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,2,Customer 2,City 2,Canada,36,2,Physical Store 2,2,1042.18
+147,2025-06-03,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,3,Customer 3,City 3,Mexico,60,1,Physical Store 1,2,1414.88
+148,2025-03-26,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,5,Customer 5,City 5,Canada,38,1,Physical Store 1,2,467.37
+149,2025-01-27,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,1,Physical Store 1,4,1161.96
+150,2025-05-30,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,1,Customer 1,City 1,Canada,52,3,Online,1,1196.05
+151,2025-02-26,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,8,Customer 8,City 8,Canada,34,1,Physical Store 1,2,593.79
+152,2025-05-05,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,7,Customer 7,City 7,Canada,64,1,Physical Store 1,5,1005.44
+153,2025-03-08,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,2,582.61
+154,2025-05-03,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,2,Customer 2,City 2,Canada,36,3,Online,4,1027.33
+155,2025-05-22,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,3,Customer 3,City 3,Mexico,60,1,Physical Store 1,3,1298.2
+156,2025-03-16,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,10,Customer 10,City 10,USA,52,2,Physical Store 2,3,533.54
+157,2025-06-12,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,9,Customer 9,City 9,USA,26,3,Online,4,1048.52
+158,2025-02-15,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,8,Customer 8,City 8,Canada,34,2,Physical Store 2,1,1208.36
+159,2025-04-15,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,2,Physical Store 2,2,1431.19
+160,2025-01-29,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,8,Customer 8,City 8,Canada,34,1,Physical Store 1,1,1143.42
+161,2025-03-02,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,10,Customer 10,City 10,USA,52,3,Online,1,1080.85
+162,2025-01-06,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,7,Customer 7,City 7,Canada,64,1,Physical Store 1,4,1003.32
+163,2025-05-24,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,3,1326.08
+164,2025-05-14,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,10,Customer 10,City 10,USA,52,1,Physical Store 1,5,1313.0
+165,2025-03-09,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,1,Customer 1,City 1,Canada,52,1,Physical Store 1,1,598.04
+166,2025-02-03,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,6,Customer 6,City 6,Mexico,39,3,Online,3,1437.58
+167,2025-06-23,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,8,Customer 8,City 8,Canada,34,3,Online,5,1004.77
+168,2025-01-06,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,2,593.82
+169,2025-05-30,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,2,Customer 2,City 2,Canada,36,1,Physical Store 1,2,1282.4
+170,2025-05-15,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,3,Online,1,1405.12
+171,2025-03-03,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,7,Customer 7,City 7,Canada,64,2,Physical Store 2,4,1118.1
+172,2025-02-07,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,1,Customer 1,City 1,Canada,52,3,Online,3,1233.79
+173,2025-05-27,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,3,Customer 3,City 3,Mexico,60,1,Physical Store 1,3,428.45
+174,2025-04-19,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,3,Customer 3,City 3,Mexico,60,2,Physical Store 2,1,1296.57
+175,2025-02-13,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,9,Customer 9,City 9,USA,26,3,Online,5,1093.07
+176,2025-01-07,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,7,Customer 7,City 7,Canada,64,1,Physical Store 1,4,542.17
+177,2025-05-17,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,5,Customer 5,City 5,Canada,38,2,Physical Store 2,2,1081.23
+178,2025-06-29,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,10,Customer 10,City 10,USA,52,1,Physical Store 1,1,1070.12
+179,2025-03-22,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,1,Customer 1,City 1,Canada,52,2,Physical Store 2,5,1122.29
+180,2025-01-28,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,3,Online,5,598.55
+181,2025-05-10,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,7,Customer 7,City 7,Canada,64,1,Physical Store 1,4,573.15
+182,2025-02-11,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,3,Online,4,1213.84
+183,2025-06-17,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,5,Customer 5,City 5,Canada,38,3,Online,3,1285.85
+184,2025-06-22,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,2,1110.88
+185,2025-04-23,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,6,Customer 6,City 6,Mexico,39,3,Online,3,452.49
+186,2025-06-01,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,1,Customer 1,City 1,Canada,52,3,Online,5,1338.79
+187,2025-03-01,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,1,Customer 1,City 1,Canada,52,2,Physical Store 2,3,1111.26
+188,2025-03-19,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,2,Customer 2,City 2,Canada,36,3,Online,1,491.09
+189,2025-04-08,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,2,Customer 2,City 2,Canada,36,3,Online,4,529.53
+190,2025-04-24,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,3,Online,4,1387.91
+191,2025-01-09,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,6,Customer 6,City 6,Mexico,39,1,Physical Store 1,4,1338.95
+192,2025-04-27,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,3,1096.99
+193,2025-03-19,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,7,Customer 7,City 7,Canada,64,3,Online,2,960.82
+194,2025-01-02,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,8,Customer 8,City 8,Canada,34,1,Physical Store 1,1,1270.01
+195,2025-01-12,3,Monitor Model 3,Monitor,ViewMax,605.35,709.16,3,Customer 3,City 3,Mexico,60,1,Physical Store 1,1,552.28
+196,2025-02-03,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,10,Customer 10,City 10,USA,52,3,Online,4,1366.91
+197,2025-05-14,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,8,Customer 8,City 8,Canada,34,2,Physical Store 2,2,1372.8
+198,2025-05-24,1,Laptop Model 1,Laptop,TechBrand,1388.88,340.9,1,Customer 1,City 1,Canada,52,3,Online,1,1344.31
+199,2025-06-11,2,Peripherals Model 2,Peripherals,Clicker,1448.37,966.29,4,Customer 4,City 4,Mexico,37,2,Physical Store 2,2,1132.67
+200,2025-01-10,4,Phone Model 4,Phone,SmartTech,1345.58,332.4,6,Customer 6,City 6,Mexico,39,2,Physical Store 2,3,1079.76
