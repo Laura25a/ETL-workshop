@@ -1,23 +1,45 @@
 import pandas as pd
+from extractionData.extraction import (
+    salesPerCategory,
+    revenuesChannel,
+    newCustomers,
+    salesByRegion,
+    lowRotationProducts,
+    revenueGrowth
+)
 
-from extractionData.extraction import *
-from loadData.load import *
-from transformationData.transformation import *
+DB_NAME = "sales.db"
 
 def main():
+    # KPI 1: Ventas por categoría
+    df_sales_cat = salesPerCategory(DB_NAME)
+    print("\n Ventas por categoría:")
+    print(df_sales_cat)
 
-    '''
-    CAMBIAN POR LA DIRECCION DE USTEDES DONDE SE ENCUENTRE EL DF EN MI CASO ES AQUI.
-    BUENO, PRUEBEN SI LES CARGA, BIEN :)
-    '''
-    df = pd.read_csv('dataSales/ETL_store_sales_200.csv').sort_values(by=['product_id'])
+    # KPI 2: Ingresos por canal y variación mensual
+    df_revenues = revenuesChannel(DB_NAME)
+    print("\n Ingresos por cana(DataFrame):")
+    print(df_revenues)
 
-    trasnformeData = dataTransformation(df)
+    # KPI 3: Clientes nuevos por mes/año
+    df_new_customers = newCustomers(DB_NAME)
+    print("\n Clientes nuevos por mes/año:")
+    print(df_new_customers)
 
-    loadToDB = load(trasnformeData, 'sales.db')
-    salesCategory = salesPerCategory('sales.db')
-    topSalesChannel = revenuesChannel('sales.db')
-    print(topSalesChannel)
+    # KPI 4: Ventas por región geográfica
+    df_sales_region = salesByRegion(DB_NAME)
+    print("\n Ventas por región geográfica:")
+    print(df_sales_region)
+
+    # KPI 5: Productos con menor rotación
+    df_low_rotation = lowRotationProducts(DB_NAME)
+    print("\n Productos con menor rotación:")
+    print(df_low_rotation)
+
+    # KPI 6: Crecimiento de ingresos
+    df_revenue_growth = revenueGrowth(DB_NAME)
+    print("\n Crecimiento de ingresos mensual:")
+    print(df_revenue_growth.to_string(index=False))
 
 if __name__ == "__main__":
     main()
